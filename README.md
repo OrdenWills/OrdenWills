@@ -32,24 +32,6 @@
 
 ---
 
-## 🚀 Experience Highlights
-
-**🧠 AI/ML Engineer @ Maliroso Digital**
-*   Designed a **Hierarchical Multi-Agent System** using **Google’s ADK** for end-to-end legal contract analysis.
-*   Implemented autonomous reasoning and self-correction workflows with **ReAct-style planning agents**.
-*   Engineered a token-aware smart chunking system for processing extensive PDFs and spreadsheets.
-
-**🤖 AI & Automation Engineer @ Humaein** *(Contract)*
-*   Built an **Automated Market Intelligence System** for monitoring global financial news across equities, crypto, and macro markets.
-*   Leveraged **n8n** as the central orchestrator to schedule workflows and trigger API calls, while the **FastAPI** and **LangGraph** backend executed stateful, multi-step LLM agents.
-*   Reduced manual monitoring effort by **~85%** and lowered LLM costs by **40–60%**.
-
-**💻 Lead ML/AI Engineer @ Walkmetru AI**
-*   Developed a screen-sharing assistant using **GPT API** + **Azure Vision**.
-*   Delivered production-grade FastAPI backends with real-time progress streaming (SSE).
-
----
-
 ## 📈 GitHub Stats
 
 <p align="left">
