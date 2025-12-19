@@ -39,9 +39,9 @@
 *   Implemented autonomous reasoning and self-correction workflows with **ReAct-style planning agents**.
 *   Engineered a token-aware smart chunking system for processing extensive PDFs and spreadsheets.
 
-**🤖 AI & Automation Engineer @ Humaein** 
+**🤖 AI & Automation Engineer @ Humaein** *(Contract)*
 *   Built an **Automated Market Intelligence System** for monitoring global financial news across equities, crypto, and macro markets.
-*   Orchestrated stateful, multi-step LLM agents using **FastAPI** and **LangGraph** for news retrieval and impact assessment.
+*   Leveraged **n8n** as the central orchestrator to schedule workflows and trigger API calls, while the **FastAPI** and **LangGraph** backend executed stateful, multi-step LLM agents.
 *   Reduced manual monitoring effort by **~85%** and lowered LLM costs by **40–60%**.
 
 **💻 Lead ML/AI Engineer @ Walkmetru AI**
