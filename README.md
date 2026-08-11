@@ -44,7 +44,7 @@
 ## 📫 Connect with Me
 
 *   📧 **Email:** [maobiekwe@gmail.com](mailto:maobiekwe@gmail.com)
-*   💼 **LinkedIn:** [LinkedIn Profile](http://www.linkedin.com/in/ekwe-chimaobi-327644199)
+*   💼 **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/ekwe-chimaobi-adolphus)
 *   🌐 **Portfolio:** [My Portfolio](https://ordenwills.github.io/Adol-chimaobi/)
 
 <!---
